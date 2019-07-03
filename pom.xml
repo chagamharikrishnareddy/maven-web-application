@@ -94,7 +94,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>paytmSnapshot Nexus Repository </name>
+	      <name>paytm Snapshot Nexus Repository </name>
 	      <url>http://13.235.17.189:8081/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
