@@ -24,7 +24,7 @@
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.log>6cbcc952d7a019e1e1ec918bc5dd535045d166be</sonar.log>
-		<sonar.host.url>http://52.66.244.129:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.49.133:9000/</sonar.host.url>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -91,12 +91,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>paytm Releases Nexus Repository</name>
-	      <url>http://13.232.127.188:8081/repository/maven-releases/</url>
+	      <url>http://13.235.99.189:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>paytm Snapshot Nexus Repository </name>
-	      <url>http://13.232.127.188:8081/repository/maven-snapshots/</url>
+	      <url>http://13.235.99.189:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
