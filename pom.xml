@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.5-SNAPSHOT</version>
 	
 	<name>Maven Web Application</name>
 	<url>http://mithuntechnologies.com</url>
@@ -23,7 +23,7 @@
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.127.147.198:9000</sonar.host.url>
+		<sonar.host.url>http://13.235.87.211:9000</sonar.host.url>
 	       <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -91,12 +91,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>paytm Releases Nexus Repository</name>
-	      <url>http://13.234.38.26:8081/repository/maven-releases/</url>
+	      <url>http://13.234.202.209:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>paytm Snapshot Nexus Repository </name>
-	      <url>http://13.234.38.26:8081/repository/maven-snapshots/</url>
+	      <url>http://13.234.202.209:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
